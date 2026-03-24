@@ -46,21 +46,21 @@ const stagger = {
 
 /* ───── data ───── */
 const IMG = {
-  hero: "https://images.unsplash.com/photo-1514933651103-005eec06c04b?w=1920&q=80",
-  about: "https://images.unsplash.com/photo-1543007630-9710e4a00a20?w=800&q=80",
-  beer: "https://images.unsplash.com/photo-1535958636474-b021ee887b13?w=800&q=80",
-  cocktail: "https://images.unsplash.com/photo-1514362545857-3bc16c4c7d1b?w=800&q=80",
-  wine: "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=800&q=80",
-  food: "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800&q=80",
-  gallery1: "https://images.unsplash.com/photo-1572116469696-31de0f17cc34?w=600&q=80",
-  gallery2: "https://images.unsplash.com/photo-1519671482749-fd09be7ccebf?w=600&q=80",
-  gallery3: "https://images.unsplash.com/photo-1563841930606-67e2bce48b78?w=600&q=80",
-  gallery4: "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=600&q=80",
-  gallery5: "https://images.unsplash.com/photo-1501386761578-eac5c94b800a?w=600&q=80",
-  gallery6: "https://images.unsplash.com/photo-1470337458703-46ad1756a187?w=600&q=80",
-  events: "https://images.unsplash.com/photo-1524368535928-5b5e00ddc76b?w=800&q=80",
-  parallax: "https://images.unsplash.com/photo-1566417713940-fe7c737a9ef2?w=1920&q=80",
-  contact: "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1920&q=80",
+  hero: "https://images.unsplash.com/photo-1681912406153-3c182eb94426?w=1920&q=80",
+  about: "https://images.unsplash.com/photo-1654113085277-c900fdc00964?w=800&q=80",
+  beer: "https://images.unsplash.com/photo-1672069001592-867afc8ca1c2?w=800&q=80",
+  cocktail: "https://images.unsplash.com/photo-1772311698901-fe3fa07141be?w=800&q=80",
+  wine: "https://images.unsplash.com/photo-1668597965487-8eea9aab344c?w=800&q=80",
+  food: "https://images.unsplash.com/photo-1677476154992-d9a4d88622f7?w=800&q=80",
+  gallery1: "https://images.unsplash.com/photo-1633895365434-568d92210a76?w=600&q=80",
+  gallery2: "https://images.unsplash.com/photo-1526907858462-4b1c6b0a0dcc?w=600&q=80",
+  gallery3: "https://images.unsplash.com/photo-1575405491233-ae3545e5f807?w=600&q=80",
+  gallery4: "https://images.unsplash.com/photo-1572550475328-2219f89eb077?w=600&q=80",
+  gallery5: "https://images.unsplash.com/photo-1772187727832-d662c248d5f3?w=600&q=80",
+  gallery6: "https://images.unsplash.com/photo-1762417421592-4ddbabc1b5cd?w=600&q=80",
+  events: "https://images.unsplash.com/photo-1761243839291-45a7dc911df7?w=800&q=80",
+  parallax: "https://images.unsplash.com/photo-1770334597610-8335702e8ab1?w=1920&q=80",
+  contact: "https://images.unsplash.com/photo-1640552522897-3e7cfe787e3d?w=1920&q=80",
 };
 
 const drinks = [
